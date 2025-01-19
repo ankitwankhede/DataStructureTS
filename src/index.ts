@@ -1,4 +1,4 @@
-import { Stack } from "./Stack";
+import { Stack } from "./Stack/Stack";
 
 const stack: Stack = new Stack();
 stack.push(1);
